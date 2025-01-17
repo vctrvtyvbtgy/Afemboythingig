@@ -3,8 +3,8 @@
     "description": "A soft pastel pink theme with elegant transparency.",
     "authors": [
         {
-            "name": "lolaso",
-            "id": "1234567890123456781123"
+            "name": "YourName",
+            "id": "123456789012345678"
         }
     ],
     "semanticColors": {
@@ -15,8 +15,7 @@
             "#ffc1d6"
         ],
         "TEXT_NORMAL": [
-            "#f5e6ea"
-            "#eb6a8c"
+            "#f2a1b5"
         ],
         "TEXT_MUTED": [
             "#d89dd5"
@@ -67,7 +66,7 @@
             "rgba(255, 240, 245, 0.8)"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#ffe6ed"
+            "#f2a1b5"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
             "rgba(255, 192, 214, 0.85)"
@@ -112,7 +111,7 @@
             "#f5c6d6"
         ],
         "CHAT_BACKGROUND": [
-            "#ffeef4"
+            "#f2a1b5"
         ],
         "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
             "#ffe6ed"
@@ -256,8 +255,7 @@
     },
     "background": {
         "blur": 0.3,
-        "url": "https://i.imgur.com/9ZOnHXQ.gif",
-        "url": "https://mfiles.alphacoders.com/952/thumb-1920-952853.png",
+        "url": "https://pbs.twimg.com/media/GRMpaSVakAA6Fgp?format=jpg&name=900x900",
         "alpha": 0.8
     },
     "plus": {
