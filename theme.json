@@ -4,7 +4,7 @@
     "authors": [
         {
             "name": "lolaso",
-            "id": "1234567890123456781123"
+            "id": "123456789012345678112773"
         }
     ],
     "semanticColors": {
@@ -15,7 +15,7 @@
             "#ffc1d6"
         ],
         "TEXT_NORMAL": [
-            "#eb6a8c"
+            "#ed91b1"
         ],
         "TEXT_MUTED": [
             "#d89dd5"
@@ -255,7 +255,7 @@
     },
     "background": {
         "blur": 0.3,
-        "url": "https://mfiles.alphacoders.com/952/thumb-1920-952853.png",
+        "url": "https://mfiles.alphacoders.com/820/thumb-1920-820438.png",
         "alpha": 0.8
     },
     "plus": {
