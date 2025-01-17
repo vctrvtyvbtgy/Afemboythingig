@@ -1,53 +1,266 @@
 {
-  "name": "Fate/Apocrypha of Astolfo v.8",
-  "description": "Theme inspired by Astolfo from Fate/Apocrypha, created using a generator.",
-  "authors": [
-    {
-      "name": "TereruNaYo",
-      "id": "65141",
-      "link": "https://vsthemes.org/user/TereruNaYo/"
-    }
-  ],
-  "semanticColors": {
-    "BACKGROUND_PRIMARY": [
-      "rgba(0, 0, 0, 0.2)"
+    "name": "Pastel Pink Bliss",
+    "description": "A soft pastel pink theme with elegant transparency.",
+    "authors": [
+        {
+            "name": "lolaso",
+            "id": "1234567890123456781123"
+        }
     ],
-    "BACKGROUND_SECONDARY": [
-      "rgba(0, 0, 0, 0.05)"
-    ],
-    "BACKGROUND_FLOATING": [
-      "rgba(0, 0, 0, 0.35)"
-    ],
-    "INTERACTIVE_NORMAL": [
-      "rgb(238, 127, 127)"
-    ],
-    "INTERACTIVE_HOVER": [
-      "rgb(238, 127, 127)"
-    ],
-    "INTERACTIVE_ACTIVE": [
-      "rgb(238, 127, 127)"
-    ],
-    "HEADER_PRIMARY": [
-      "rgb(238, 127, 127)"
-    ],
-    "TEXT_NORMAL": [
-      "rgb(238, 127, 127)"
-    ],
-    "BACKGROUND_ACCENT": [
-      "rgba(0, 0, 0, 0.05)"
-    ]
-  },
-  "rawColors": {
-    "ACCENT_COLOR": "rgb(238, 127, 127)"
-  },
-  "background": {
-    "url": "https://vsthemes.org/uploads/posts/2021-12/1640205137_985061.webp",
-    "alpha": 0.8,
-    "blur": 0
-  },
-  "plus": {
-    "version": "1.4",
-    "mentionLineColor": "rgb(238, 127, 127)"
-  },
-  "spec": 2
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#f5c6d6"
+        ],
+        "HEADER_SECONDARY": [
+            "#ffc1d6"
+        ],
+        "TEXT_NORMAL": [
+            "#f5e6ea"
+        ],
+        "TEXT_MUTED": [
+            "#d89dd5"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#ffc1d6"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#ffabc4"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#f5c6d6"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#e1a9cf"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#ffeef4"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#ffe6ed"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#ffdde5"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#ffd3dc"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#f5c6d6"
+        ],
+        "BACKGROUND_FLOATING": [
+            "rgba(255, 240, 245, 0.85)"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#ffeef4"
+        ],
+        "BG_BASE_TERTIARY": [
+            "#ffd3dc"
+        ],
+        "BG_BASE_SECONDARY": [
+            "#ffe6ed"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#ffd3dc"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "rgba(255, 240, 245, 0.8)"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#ffe6ed"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "rgba(255, 192, 214, 0.85)"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#ffd3dc"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#ffe6ed"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#ffdde5"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#ffc1d6"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#ffc1d6"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "transparent"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#d89dd5"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#ffc1d6"
+        ],
+        "TEXT_LINK": [
+            "#ffabc4"
+        ],
+        "TEXT_DANGER": [
+            "#ff95a3"
+        ],
+        "KEYBOARD": [
+            "#ffe6ed"
+        ],
+        "CHANNEL_ICON": [
+            "#f5c6d6"
+        ],
+        "CHAT_BACKGROUND": [
+            "#ffeef4"
+        ],
+        "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+            "#ffe6ed"
+        ],
+        "REDESIGN_CHANNEL_CATAGORY_NAME_TEXT": [
+            "#f5c6d6"
+        ],
+        "REDESIGN_CHANNEL_NAME_TEXT": [
+            "#f5e6ea"
+        ],
+        "CARD_PRIMARY_BG": [
+            "#ffe6ed"
+        ],
+        "CARD_SECONDARY_BG": [
+            "#ffd3dc"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+            "#ffc1d6"
+        ],
+        "REDESIGN_CHAT_INPUT_BACKGROUND": [
+            "#ffeef4"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BORDER": [
+            "#ffc1d6"
+        ],
+        "BORDER_FAINT": [
+            "#ffc1d6"
+        ],
+        "BG_BACKDROP": [
+            "rgba(255, 240, 245, 0.8)"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_500": "#f5c6d6",
+        "PRIMARY_100": "#ffeef4",
+        "PRIMARY_200": "#ffc1d6",
+        "PRIMARY_230": "#ffc1d6",
+        "PRIMARY_300": "#ffd3dc",
+        "PRIMARY_360": "#ffdde5",
+        "PRIMARY_400": "#ffd3dc",
+        "PRIMARY_600": "#ffdde5",
+        "PRIMARY_630": "#ffc1d6",
+        "PRIMARY_645": "#ffd3dc",
+        "PRIMARY_660": "#f5e6ea",
+        "PRIMARY_700": "#ffe6ed",
+        "PRIMARY_800": "#ffc1d6",
+        "BRAND_260": "#f5c6d6",
+        "BRAND_360": "#ffc1d6",
+        "BRAND_500": "#ffc1d6",
+        "BRAND_560": "#ffc1d6",
+        "YELLOW_300": "#ffd3dc",
+        "GREEN_600": "#ffc1d6",
+        "RED_400": "#ff95a3",
+        "WHITE_500": "#f5e6ea",
+        "PLUM_1": "#f5c6d6",
+        "PLUM_10": "#ffc1d6",
+        "PLUM_11": "#ffdde5",
+        "PLUM_13": "#ffe6ed",
+        "PLUM_15": "#ffdde5",
+        "PLUM_16": "#f5c6d6",
+        "PLUM_17": "#f5e6ea",
+        "PLUM_18": "#ffd3dc",
+        "PLUM_19": "#ffc1d6",
+        "PLUM_20": "#ffeef4",
+        "PLUM_21": "#ffe6ed",
+        "PLUM_22": "#ffdde5",
+        "PLUM_24": "#ffe6ed",
+        "PLUM_25": "#f5e6ea",
+        "PLUM_3": "#ffd3dc",
+        "PLUM_4": "#ffc1d6",
+        "PLUM_6": "#ffeef4",
+        "PLUM_9": "#f5c6d6",
+        "GREEN_100": "#ffc1d6",
+        "GREEN_130": "#ffc1d6",
+        "GREEN_160": "#ffc1d6",
+        "GREEN_200": "#ffc1d6",
+        "GREEN_230": "#ffc1d6",
+        "GREEN_260": "#ffc1d6",
+        "GREEN_300": "#ffc1d6",
+        "GREEN_330": "#ffc1d6",
+        "GREEN_345": "#ffc1d6",
+        "GREEN_360": "#ffc1d6",
+        "GREEN_400": "#ffc1d6",
+        "GREEN_430": "#ffc1d6",
+        "GREEN_460": "#ffc1d6",
+        "GREEN_500": "#ffc1d6",
+        "GREEN_530": "#ffc1d6",
+        "GREEN_560": "#ffc1d6",
+        "GREEN_630": "#ffc1d6",
+        "GREEN_660": "#ffc1d6",
+        "GREEN_700": "#ffc1d6",
+        "GREEN_730": "#ffc1d6",
+        "GREEN_760": "#ffc1d6",
+        "GREEN_800": "#ffc1d6",
+        "GREEN_830": "#ffc1d6",
+        "GREEN_860": "#ffc1d6",
+        "GREEN_900": "#ffc1d6",
+        "GUILD_BOOSTING_PINK": "#f5c6d6",
+        "GUILD_BOOSTING_PURPLE": "#ffc1d6",
+        "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#ffc1d6",
+        "RED_260": "#ffc1d6",
+        "RED_300": "#ffc1d6",
+        "RED_330": "#ffc1d6",
+        "RED_345": "#ffc1d6",
+        "RED_360": "#ffc1d6",
+        "RED_430": "#ffc1d6",
+        "RED_460": "#ffc1d6",
+        "RED_500": "#ffc1d6",
+        "RED_530": "#ffc1d6",
+        "RED_560": "#ffc1d6",
+        "RED_600": "#ffc1d6",
+        "RED_630": "#ffc1d6",
+        "RED_660": "#ffc1d6",
+        "RED_700": "#ffc1d6",
+        "YELLOW_100": "#ffd3dc",
+        "YELLOW_130": "#ffd3dc",
+        "YELLOW_160": "#ffd3dc",
+        "YELLOW_200": "#ffd3dc",
+        "YELLOW_230": "#ffd3dc",
+        "YELLOW_260": "#ffd3dc",
+        "YELLOW_300": "#ffd3dc",
+        "YELLOW_330": "#ffd3dc",
+        "YELLOW_345": "#ffd3dc",
+        "YELLOW_360": "#ffd3dc",
+        "YELLOW_400": "#ffd3dc",
+        "YELLOW_430": "#ffd3dc",
+        "YELLOW_460": "#ffd3dc",
+        "YELLOW_500": "#ffd3dc",
+        "YELLOW_530": "#ffd3dc",
+        "YELLOW_560": "#ffd3dc",
+        "YELLOW_600": "#ffd3dc",
+        "YELLOW_630": "#ffd3dc",
+        "YELLOW_660": "#ffd3dc",
+        "YELLOW_700": "#ffd3dc",
+        "YELLOW_730": "#ffd3dc",
+        "YELLOW_760": "#ffd3dc",
+        "YELLOW_800": "#ffd3dc",
+        "YELLOW_830": "#ffd3dc",
+        "YELLOW_860": "#ffd3dc",
+        "YELLOW_900": "#ffd3dc"
+    },
+    "background": {
+        "blur": 0.3,
+        "url": "https://i.imgur.com/9ZOnHXQ.gif",
+        "alpha": 0.8
+    },
+    "plus": {
+        "version": "1.4",
+        "mentionLineColor": "#f5c6d6"
+    },
+    "spec": 2
 }
