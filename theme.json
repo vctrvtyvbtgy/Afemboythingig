@@ -1,0 +1,53 @@
+{
+  "name": "Fate/Apocrypha of Astolfo v.8",
+  "description": "Theme inspired by Astolfo from Fate/Apocrypha, created using a generator.",
+  "authors": [
+    {
+      "name": "TereruNaYo",
+      "id": "65141",
+      "link": "https://vsthemes.org/user/TereruNaYo/"
+    }
+  ],
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": [
+      "rgba(0, 0, 0, 0.2)"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "rgba(0, 0, 0, 0.05)"
+    ],
+    "BACKGROUND_FLOATING": [
+      "rgba(0, 0, 0, 0.35)"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "rgb(238, 127, 127)"
+    ],
+    "INTERACTIVE_HOVER": [
+      "rgb(238, 127, 127)"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "rgb(238, 127, 127)"
+    ],
+    "HEADER_PRIMARY": [
+      "rgb(238, 127, 127)"
+    ],
+    "TEXT_NORMAL": [
+      "rgb(238, 127, 127)"
+    ],
+    "BACKGROUND_ACCENT": [
+      "rgba(0, 0, 0, 0.05)"
+    ]
+  },
+  "rawColors": {
+    "ACCENT_COLOR": "rgb(238, 127, 127)"
+  },
+  "background": {
+    "url": "https://vsthemes.org/uploads/posts/2021-12/1640205137_985061.webp",
+    "alpha": 0.8,
+    "blur": 0
+  },
+  "plus": {
+    "version": "1.4",
+    "mentionLineColor": "rgb(238, 127, 127)"
+  },
+  "spec": 2
+}
