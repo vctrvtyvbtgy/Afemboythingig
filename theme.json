@@ -15,7 +15,7 @@
             "#ffc1d6"
         ],
         "TEXT_NORMAL": [
-            "#f5e6ea"
+            "#eb6a8c"
         ],
         "TEXT_MUTED": [
             "#d89dd5"
@@ -255,7 +255,7 @@
     },
     "background": {
         "blur": 0.3,
-        "url": "https://i.imgur.com/9ZOnHXQ.gif",
+        "url": "https://mfiles.alphacoders.com/952/thumb-1920-952853.png",
         "alpha": 0.8
     },
     "plus": {
